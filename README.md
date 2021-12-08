@@ -16,7 +16,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. Install node modules by running `npm install`.
 2. Install font by navigate to `MultiViewer/src/assets/Titillium` open `Titillium-Regular.otf` and install it.
 3. Find your your local ip adress by running `ipconfig` in your terminal and copy it. Replace `http://192.168.2.194` with the copied adress in `MultiViewer/src/app/websocket.service.ts`.
-4. Navigate to `MultiViewer/src/app/websocket.service.ts` and run  `node main` to start the websocket server.
+4. Navigate to `MultiViewer/websocket-server` and run  `node main` to start the websocket server.
 
 5. Run `ng serve --host 0.0.0.0` to start a dev server. Open three new tabs in your browser and run this routes:
   - `http://localhost:4200/displayLeft`
