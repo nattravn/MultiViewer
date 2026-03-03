@@ -35,6 +35,7 @@
     "express": "^4.17.1",
     "greiner-hormann": "^1.4.1",
     "http": "0.0.0",
+    "i": "^0.3.7",
     "igniteui-angular": "^8.1.5",
     "js-angusj-clipper": "^1.0.2",
     "js-clipper": "^1.0.1",
@@ -50,7 +51,7 @@
     "swiper": "^6.5.1",
     "tslib": "^1.10.0",
     "typeface-titillium-web": "0.0.72",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.9.1"
   },
   "devDependencies": {
     "@angular/cli": "^8.3.0",
@@ -72,7 +73,7 @@
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jasmine": "~2.0.1",
-    "karma-jasmine-html-reporter": "^1.4.2",
+    "karma-jasmine-html-reporter": "1.4.2",
     "ngx-spec": "^2.1.4",
     "node-sass": "^4.12.0",
     "protractor": "~5.4.0",
