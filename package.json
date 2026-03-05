@@ -31,7 +31,7 @@
     "convert-csv-to-json": "0.0.15",
     "core-js": "^3.2.1",
     "cors": "^2.8.5",
-    "d3": "^5.11.0",
+    "d3": "^7.9.0",
     "express": "^4.17.1",
     "greiner-hormann": "^1.4.1",
     "http": "0.0.0",
