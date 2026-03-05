@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.803.0",
+    "@angular-devkit/build-angular": "^21.2.1",
     "@angular/animations": "^8.2.3",
     "@angular/cdk": "^8.1.4",
     "@angular/cdk-experimental": "^8.1.4",
@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@angular/cli": "^8.3.0",
-    "@angular/compiler-cli": "~8.2.3",
+    "@angular/compiler-cli": "~21.2.1",
     "@angular/language-service": "~8.2.3",
     "@types/d3": "^5.7.2",
     "@types/jasmine": "~3.4.0",
@@ -65,7 +65,7 @@
     "advanced-json-path": "^1.0.8",
     "angular-translate-csv-to-json": "^1.1.0",
     "codelyzer": "~5.1.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "gulp-typescript": "^5.0.1",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
